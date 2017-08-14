@@ -1,1 +1,1 @@
-<?php include_once("suhas_r_cv.html"); ?>
+<?php include_once("index.html"); ?>
